@@ -114,7 +114,7 @@ curl --location --request GET 'localhost:8080/history/file?month=8&year=2023&use
 Пример ответа: 
 ```json
 {
-    "url": "http://localhost:8080/./assets/csv_reports/0e666515-c657-4e49-b195-431c682563f7.csv"
+    "url": "http://localhost:8080/assets/csv_reports/0e666515-c657-4e49-b195-431c682563f7.csv"
 }
 ```
 
